@@ -1,5 +1,5 @@
 {
-  "name": "Vajira Md",
+  "name": "HASSAN Md",
   "version": "1.0.0",
   "description": "WhatsApp Using Lib Baileys Multi Device",
   "main": "index.js",
@@ -18,7 +18,7 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "Vajira Rathnayaka.",
+  "author": "HASSAN mD.",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
